@@ -1,0 +1,2 @@
+id,housenumber,housename,poi,street,subsublocality,sublocality,locality,village,subdistrict,district,city,state,pincode,formattedaddress,eloc,geocodelevel,confidencescore
+30,abcd,abcd,Tavant Technologies,d,fsv,Block D,Sector 59,sdsd,Dadri,Gautam Buddha Nagar District,Noida,Uttar Pradesh,201301,"Tavant Technologies, Block D, Sector 59, Dadri, Gautam Buddha Nagar District, Noida, Uttar Pradesh, 201301",TIYF9Q,poi,0
